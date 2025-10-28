@@ -8,7 +8,7 @@ It uses a Naive Bayes classifier trained on a spam dataset and provides a user-f
 Features
 --------
 - Clean and preprocess text data
-- Train a machine learning model (Multinomial Naive Bayes)
+- Train a machine learning model (Multinomial Naive Bayes) 
 - Evaluate accuracy and performance
 - Save trained model and vectorizer for reuse
 - Build an interactive web app using Streamlit
